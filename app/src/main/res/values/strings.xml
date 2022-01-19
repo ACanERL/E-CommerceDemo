@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ACEShop</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_n">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="e_shop_app">ACE Shop App</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

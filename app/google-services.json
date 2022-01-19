@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077992599110",
+    "project_id": "fotopaylasim-a6f3e",
+    "storage_bucket": "fotopaylasim-a6f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077992599110:android:48365ed63b3affca5c6447",
+        "android_client_info": {
+          "package_name": "com.example.aceshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077992599110-j5tjrqmj5plcl3vuaugrda2p1qb4h4oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9AEHA8P5GwJ0dmY5it_YaAKljS3Ssxt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077992599110-j5tjrqmj5plcl3vuaugrda2p1qb4h4oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
